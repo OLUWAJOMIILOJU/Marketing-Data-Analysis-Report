@@ -1,2 +1,2 @@
-# Marketing-Data-Analysis-Report
+# Marketing-Data-Analysis
 Marketing Campaign Analysis with SQL
