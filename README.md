@@ -1,4 +1,4 @@
-# Marketing-Data-Analysis
+# Marketing-Analysis-Using-SQL
 An end-to-end SQL project focused on uncovering actionable insights from a marketing campaign dataset. This project demonstrates core SQL querying skills for business intelligence, helping stakeholders understand customer behavior, campaign effectiveness, and growth opportunities.
 
 ---
